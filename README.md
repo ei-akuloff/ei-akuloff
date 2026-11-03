@@ -10,10 +10,10 @@ Final-year Computer Engineering (Hons. AIML) student at VESIT, Mumbai. I build L
 ## Selected projects
 | Project | What it does | Stack |
 |---|---|---|
-| [Arogya Sathi]([link](https://github.com/vedaXD/Genesis-Hackathon)) | Generates short sustainability videos from a topic and location | Gemini, Imagen, FastAPI, React, Cloud Run |
-| [LexiScore]([link](https://github.com/rushikesh-geek/Automated-Essay-Scoring)) | Essay scoring and feedback for Indian English learners | PyTorch, Transformers, LightGBM, FastAPI |
-| [ForensiAI]([link](https://open.spotify.com/track/57uhIkEuISiIlYEC6ea66V?si=7417c072e3814305)) | Vector-search retrieval over unstructured forensic data | Next.js, Python, ChromaDB |
-| [Vishwas Netra]([link](https://github.com/XohamOG/CC-experiment)) | Hate-speech and cyberbullying detection | PyTorch, DistilBERT, React, AWS |
+| [Arogya Sathi](https://github.com/vedaXD/Genesis-Hackathon) | Generates short sustainability videos from a topic and location | Gemini, Imagen, FastAPI, React, Cloud Run |
+| [LexiScore](https://github.com/rushikesh-geek/Automated-Essay-Scoring) | Essay scoring and feedback for Indian English learners | PyTorch, Transformers, LightGBM, FastAPI |
+| [ForensiAI](https://github.com/ei-akuloff/ForensiAI) | Vector-search retrieval over unstructured forensic data | Next.js, Python, ChromaDB |
+| [Vishwas Netra](https://github.com/XohamOG/CC-experiment) | Hate-speech and cyberbullying detection | PyTorch, DistilBERT, React, AWS |
 
 ## Tech stack
 **AI/ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, LangGraph
