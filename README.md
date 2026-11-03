@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Akul 👋
 
-<!--
-**ei-akuloff/ei-akuloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Engineering (Hons. AIML) student at VESIT, Mumbai. I build LLM-powered apps, RAG pipelines, and deep learning models, and ship them with FastAPI and React.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🔭 A multi-agent RAG system with LangGraph, ChromaDB, and Gemini
+- 🎓 Minor in Quantum Technologies
+- 💼 Looking for full-time AI/ML and full-stack roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+| Project | What it does | Stack |
+|---|---|---|
+| [LexiScore](link) | Essay scoring and feedback for Indian English learners | PyTorch, Transformers, LightGBM, FastAPI |
+| [Arogya Sathi](link) | Generates short sustainability videos from a topic and location | Gemini, Imagen, FastAPI, React, Cloud Run |
+| [ForensiAI](link) | Vector-search retrieval over unstructured forensic data | Next.js, Python, ChromaDB |
+| [Vishwas Netra](link) | Hate-speech and cyberbullying detection | PyTorch, DistilBERT, React, AWS |
+
+## Tech stack
+**AI/ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, LangGraph
+**Backend:** Python, FastAPI, Django, Node.js, PostgreSQL, MongoDB
+**Frontend:** React, Next.js, Tailwind
+**DevOps:** Docker, Kubernetes, GitHub Actions
+
+## Experience
+- Software Developer Intern, Bhabha Atomic Research Centre
+- ML Research Intern, VESIT Research Lab (human activity recognition with CNN-LSTM)
+- JavaScript Developer Intern, Infinitech Training Institute
+
+## Achievements
+- 2nd Runner-up, QuestIT Genesis Hackathon '26
+- Finalist in 4 of 10 hackathons
+
+## Contact
+[LinkedIn](your-link) · akulpatre17@gmail.com
